@@ -1,0 +1,2 @@
+# entri-app
+trinning
